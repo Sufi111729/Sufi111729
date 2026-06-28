@@ -52,7 +52,7 @@ Java · Spring Boot · React · JavaScript · Next.js · Node.js · HTML · CSS 
 - Portfolio: [mdsufidev.vercel.app](https://mdsufidev.vercel.app)
 - FileWalaTool: [www.filewalatool.com](https://www.filewalatool.com)
 - GitHub: [github.com/Sufi111729](https://github.com/Sufi111729)
-- LinkedIn: Add your LinkedIn URL here
+- LinkedIn: [www.linkedin.com/in/mdsufidev/](https://www.linkedin.com/in/mdsufidev/)
 
 ---
 
