@@ -1,91 +1,102 @@
-````md
 <p align="center">
-  <img src="./assets/sufiyan-header.svg" alt="Muhammad Sufiyan — Java Full Stack Developer" width="100%" />
+  <img src="./assets/sufiyan-header.svg" alt="Muhammad Sufiyan - Java Full Stack Developer" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://mdsufidev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-238636?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.filewalatool.com">
-    <img src="https://img.shields.io/badge/Featured%20Project-FileWalaTool-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Featured_Product-FileWalaTool-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="FileWalaTool" />
+  </a>
+  <a href="https://github.com/Sufi111729">
+    <img src="https://img.shields.io/badge/GitHub-Sufi111729-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-## `whoami`
+## ⌘ Developer Profile
 
-```java
-public class MuhammadSufiyan {
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-    String role = "Java Full Stack Developer";
-    String location = "Delhi, India";
+### 👨‍💻 About Me
 
-    String[] stack = {
-        "Java", "Spring Boot", "React",
-        "JavaScript", "SQL", "MySQL",
-        "HTML", "CSS", "REST APIs"
-    };
+* Java Full Stack Developer
+* Building responsive and useful web applications
+* Interested in Java, Spring Boot, React, SQL and REST APIs
+* Focused on clean UI, practical products and continuous learning
+* Currently looking for Java / Full Stack opportunities
 
-    String currentFocus = "Building production-style web applications";
-}
-````
+    </td>
+    <td width="50%" valign="top">
 
----
+### ⚡ Quick Snapshot
 
-## ⚡ Developer Snapshot
+| Area          | Focus                      |
+| ------------- | -------------------------- |
+| Primary Stack | Java · Spring Boot · React |
+| Database      | SQL · MySQL                |
+| Frontend      | HTML · CSS · JavaScript    |
+| Backend       | REST APIs · CRUD           |
+| Based In      | India                      |
+| Status        | Open to Work               |
 
-| Focus           | Details                                              |
-| --------------- | ---------------------------------------------------- |
-| 💼 Role         | Java Full Stack Developer                            |
-| 🧠 Core Stack   | Java · Spring Boot · React · SQL                     |
-| 🚀 Current Goal | Build impactful, real-world web products             |
-| 🌐 Portfolio    | [mdsufidev.vercel.app](https://mdsufidev.vercel.app) |
-| 🟢 Availability | Open to Java / Full Stack opportunities              |
+```
+</td>
+```
+
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Featured Product
 
 <table>
-<tr>
-<td width="65%">
+  <tr>
+    <td width="64%" valign="top">
 
 ### FileWalaTool
 
-A fast browser-based platform for working with images, PDFs, and documents without unnecessary complexity.
+A browser-based platform for working with PDF, image and document files quickly and privately.
 
-**What it can do**
+**Key capabilities**
 
-* Resize and compress images
-* Convert JPG, PNG, PDF, and Word files
-* Merge, split, rotate, watermark, and protect PDFs
-* Create passport and PAN application photos
-* Process files privately in the browser
+* Image resize, crop and compression tools
+* PDF merge, split, rotate and watermark tools
+* JPG, PNG, PDF and Word conversion utilities
+* PAN photo, passport photo and signature resize tools
+* Mobile-friendly, browser-based file processing
 
 <br />
 
 <a href="https://www.filewalatool.com">
-  <img src="https://img.shields.io/badge/Launch%20FileWalaTool-238636?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Launch_FileWalaTool-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Launch FileWalaTool" />
 </a>
 
+```
 </td>
-
-<td width="35%">
-
-```text
-STATUS
-──────
-Product: Live
-Platform: Web
-Type: SaaS Tool
-Privacy: Browser-based
-Focus: Utility + UX
+<td width="36%" valign="top">
 ```
 
+### Product Status
+
+| Item     | Value           |
+| -------- | --------------- |
+| Platform | Web             |
+| Type     | Utility SaaS    |
+| Privacy  | Browser-based   |
+| Focus    | File tools + UX |
+| Website  | Live            |
+
+```
 </td>
-</tr>
+```
+
+  </tr>
 </table>
 
 ---
@@ -93,49 +104,39 @@ Focus: Utility + UX
 ## 🧰 Tech Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,tailwind,mysql,git,github,postman,vscode&perline=12" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,tailwind,mysql,git,github,postman,vscode&perline=12" alt="Technology stack" />
 </p>
 
 ---
 
 ## 🧩 What I Build
 
-```text
-✓ Java + Spring Boot backend applications
-✓ REST APIs and CRUD-based systems
-✓ Responsive React web interfaces
-✓ SQL / MySQL database integrations
-✓ File-processing and utility web products
-✓ Clean, mobile-friendly frontend experiences
-```
+| Category | Work                                  |
+| -------- | ------------------------------------- |
+| Backend  | Java and Spring Boot applications     |
+| APIs     | REST APIs and CRUD-based systems      |
+| Frontend | Responsive React interfaces           |
+| Database | MySQL and SQL integrations            |
+| Products | File-processing and utility web apps  |
+| UI/UX    | Clean and mobile-friendly experiences |
 
 ---
 
-## 📊 GitHub Activity
+## 📌 Current Focus
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sufi111729&show_icons=true&hide_border=true&theme=github_dark" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Sufi111729&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sufi111729&theme=github-compact&hide_border=true" width="100%" />
-</p>
+* Strengthening Java, Spring Boot and SQL fundamentals
+* Building real-world full stack projects
+* Improving API design, deployment and Git workflows
+* Creating products that solve practical user problems
 
 ---
 
-## 🤝 Let's Connect
+## 🌐 Explore My Work
 
-<p>
-  <a href="https://mdsufidev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/Sufi111729">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+* Portfolio: [mdsufidev.vercel.app](https://mdsufidev.vercel.app)
+* Featured Product: [filewalatool.com](https://www.filewalatool.com)
+* GitHub Profile: [github.com/Sufi111729](https://github.com/Sufi111729)
 
 <p align="center">
-  <sub>Focused on clean code, useful products, and continuous improvement.</sub>
+  <sub>Focused on clean code, useful products and continuous improvement.</sub>
 </p>
-```
