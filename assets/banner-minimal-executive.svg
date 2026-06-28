@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Muhammad Sufiyan — Java Full Stack Developer minimalist executive banner">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#58A6FF"/><stop offset="100%" stop-color="#7EE787"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#161E29"/><stop offset="100%" stop-color="#101720"/></linearGradient>
+    <radialGradient id="halo" cx="0" cy="0" r="1" gradientTransform="translate(1054 198) rotate(90) scale(221 300)"><stop offset="0%" stop-color="#58A6FF" stop-opacity=".14"/><stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="420" rx="26" fill="#0D1117"/>
+  <rect width="12" height="420" rx="6" fill="url(#edge)"/>
+  <rect x="52" y="55" width="1090" height="310" rx="18" fill="url(#panel)" stroke="#30363D"/>
+  <rect x="52" y="55" width="1090" height="310" rx="18" fill="url(#halo)"/>
+  <text x="93" y="99" fill="#7EE787" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">MUHAMMAD SUFIYAN / PROFILE</text>
+  <path d="M93 123H1098" stroke="#30363D"/>
+  <text x="93" y="200" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">Java Full Stack Developer</text>
+  <text x="95" y="240" fill="#AAB7C4" font-family="Arial, Helvetica, sans-serif" font-size="20">Founder of FileWalaTool · Java · Spring Boot · React · SQL</text>
+  <text x="95" y="279" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="17">Focused on fast, useful, and user-friendly web products.</text>
+  <rect x="95" y="309" width="195" height="34" rx="17" fill="#238636"/>
+  <text x="119" y="331" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">OPEN TO OPPORTUNITIES</text>
+  <g transform="translate(887 145)">
+    <circle cx="92" cy="64" r="64" fill="#0D1117" stroke="#58A6FF" stroke-opacity=".55" stroke-width="2"/>
+    <circle cx="92" cy="64" r="42" fill="#131D29" stroke="#7EE787" stroke-opacity=".55"/>
+    <text x="63" y="72" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">MS</text>
+    <text x="39" y="157" fill="#8B949E" font-family="monospace" font-size="12">BUILD · SHIP · IMPROVE</text>
+  </g>
+</svg>
