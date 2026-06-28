@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Muhammad Sufiyan — Java Full Stack Developer terminal banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#090D12"/><stop offset="100%" stop-color="#101822"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#7EE787"/><stop offset="100%" stop-color="#58A6FF"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-25%" width="140%" height="150%"><feDropShadow dx="0" dy="15" stdDeviation="20" flood-color="#000" flood-opacity=".55"/></filter>
+  </defs>
+  <rect width="1200" height="420" rx="26" fill="url(#bg)"/>
+  <circle cx="1045" cy="-10" r="285" fill="#238636" opacity=".08"/>
+  <circle cx="1130" cy="385" r="250" fill="#58A6FF" opacity=".07"/>
+  <g filter="url(#shadow)">
+    <rect x="48" y="45" width="1104" height="330" rx="18" fill="#0D1117" stroke="#30363D"/>
+    <rect x="48" y="45" width="1104" height="52" rx="18" fill="#161B22"/>
+    <path d="M48 79H1152" stroke="#30363D"/>
+    <circle cx="79" cy="71" r="7" fill="#FF5F56"/><circle cx="103" cy="71" r="7" fill="#FFBD2E"/><circle cx="127" cy="71" r="7" fill="#27C93F"/>
+    <text x="157" y="76" fill="#8B949E" font-family="monospace" font-size="14">sufi@portfolio: ~/profile</text>
+    <text x="85" y="137" fill="#7EE787" font-family="monospace" font-size="17">$ whoami</text>
+    <text x="108" y="171" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700">Muhammad Sufiyan</text>
+    <text x="85" y="214" fill="#58A6FF" font-family="monospace" font-size="20">Java Full Stack Developer | Founder of FileWalaTool</text>
+    <text x="85" y="256" fill="#7EE787" font-family="monospace" font-size="16">$ cat mission.txt</text>
+    <text x="108" y="287" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="17">Build practical, responsive web products with Java, Spring Boot, React, and SQL.</text>
+    <text x="85" y="329" fill="#7EE787" font-family="monospace" font-size="16">$ stack --primary</text>
+    <rect x="290" y="307" width="78" height="28" rx="14" fill="#152B41" stroke="#315A84"/>
+    <text x="312" y="326" fill="#BFDBFE" font-family="monospace" font-size="12">JAVA</text>
+    <rect x="380" y="307" width="132" height="28" rx="14" fill="#143024" stroke="#2D6A50"/>
+    <text x="401" y="326" fill="#BBF7D0" font-family="monospace" font-size="12">SPRING BOOT</text>
+    <rect x="524" y="307" width="82" height="28" rx="14" fill="#25234D" stroke="#514D9B"/>
+    <text x="545" y="326" fill="#DDD6FE" font-family="monospace" font-size="12">REACT</text>
+    <rect x="618" y="307" width="68" height="28" rx="14" fill="#2F2819" stroke="#6B5522"/>
+    <text x="638" y="326" fill="#FDE68A" font-family="monospace" font-size="12">SQL</text>
+    <rect x="765" y="125" width="330" height="176" rx="14" fill="#111A25" stroke="#30363D"/>
+    <text x="794" y="158" fill="#8B949E" font-family="monospace" font-size="13">current_project.json</text>
+    <path d="M789 173H1072" stroke="#30363D"/>
+    <text x="794" y="204" fill="#58A6FF" font-family="monospace" font-size="14">"product"</text><text x="883" y="204" fill="#C9D1D9" font-family="monospace" font-size="14">: "FileWalaTool",</text>
+    <text x="794" y="230" fill="#7EE787" font-family="monospace" font-size="14">"status"</text><text x="877" y="230" fill="#C9D1D9" font-family="monospace" font-size="14">: "live",</text>
+    <text x="794" y="256" fill="#C4B5FD" font-family="monospace" font-size="14">"focus"</text><text x="872" y="256" fill="#C9D1D9" font-family="monospace" font-size="14">: "useful tools"</text>
+    <rect x="765" y="320" width="330" height="18" rx="9" fill="#10141B"/>
+    <rect x="765" y="320" width="226" height="18" rx="9" fill="url(#line)"/>
+  </g>
+</svg>
