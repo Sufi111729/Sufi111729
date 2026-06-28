@@ -1,24 +1,85 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Muhammad Sufiyan - Java Full Stack Developer and Founder of FileWalaTool">
-  <rect width="1200" height="360" rx="22" fill="#0D1117"/>
-  <path d="M0 305C180 258 330 380 520 302C708 225 930 342 1200 238V360H0V305Z" fill="#111B2A"/>
-  <path d="M0 318C220 265 405 387 603 303C790 223 1000 337 1200 262" fill="none" stroke="#238636" stroke-opacity=".42" stroke-width="2"/>
-  <path d="M0 336C225 282 408 403 604 321C796 239 1003 352 1200 279" fill="none" stroke="#58A6FF" stroke-opacity=".28" stroke-width="2"/>
-  <text x="72" y="82" fill="#58A6FF" font-family="monospace" font-size="15">PRODUCT BUILDER / SOFTWARE ENGINEER</text>
-  <text x="72" y="148" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700">Muhammad Sufiyan</text>
-  <text x="74" y="191" fill="#AAB7C4" font-family="Arial, Helvetica, sans-serif" font-size="20">Java Full Stack Developer · Founder of FileWalaTool</text>
-  <text x="74" y="224" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="17">Building practical web products with Java, Spring Boot, React, and SQL.</text>
-  <rect x="74" y="250" width="188" height="36" rx="18" fill="#238636"/>
-  <text x="99" y="274" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">OPEN TO WORK</text>
-  <rect x="714" y="58" width="416" height="78" rx="14" fill="#161B22" stroke="#30363D"/>
-  <rect x="738" y="80" width="9" height="34" rx="4.5" fill="#7EE787"/>
-  <text x="768" y="88" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">FileWalaTool</text>
-  <text x="768" y="113" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="14">Browser-based PDF, image, and document tools</text>
-  <rect x="714" y="154" width="195" height="82" rx="14" fill="#161B22" stroke="#30363D"/>
-  <text x="737" y="184" fill="#58A6FF" font-family="monospace" font-size="14">BACKEND</text>
-  <text x="737" y="213" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="17">Java + Spring Boot</text>
-  <rect x="935" y="154" width="195" height="82" rx="14" fill="#161B22" stroke="#30363D"/>
-  <text x="958" y="184" fill="#A371F7" font-family="monospace" font-size="14">FRONTEND</text>
-  <text x="958" y="213" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="17">React + JavaScript</text>
-  <rect x="714" y="256" width="416" height="38" rx="12" fill="#0D1117" stroke="#30363D"/>
-  <text x="737" y="280" fill="#AAB7C4" font-family="monospace" font-size="14">BUILD · IMPROVE · DEPLOY · REPEAT</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Muhammad Sufiyan — Java Full Stack Developer and Founder of FileWalaTool">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B111A"/>
+      <stop offset="55%" stop-color="#0D1624"/>
+      <stop offset="100%" stop-color="#0B111A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#7EE787"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#182536"/>
+      <stop offset="100%" stop-color="#101923"/>
+    </linearGradient>
+    <radialGradient id="blueGlow" cx="0" cy="0" r="1" gradientTransform="translate(1054 105) rotate(130) scale(310 280)">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.27"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="greenGlow" cx="0" cy="0" r="1" gradientTransform="translate(972 337) rotate(-35) scale(300 220)">
+      <stop offset="0%" stop-color="#238636" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#238636" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#8B949E" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="16" stdDeviation="20" flood-color="#010409" flood-opacity="0.48"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="420" rx="26" fill="url(#background)"/>
+  <rect width="1200" height="420" rx="26" fill="url(#grid)"/>
+  <rect width="1200" height="420" rx="26" fill="url(#blueGlow)"/>
+  <rect width="1200" height="420" rx="26" fill="url(#greenGlow)"/>
+
+  <rect x="54" y="56" width="6" height="307" rx="3" fill="url(#accent)"/>
+  <text x="88" y="91" fill="#7DD3FC" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">FULL STACK • PRODUCT ENGINEERING</text>
+  <text x="88" y="160" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">Muhammad Sufiyan</text>
+  <text x="90" y="203" fill="#A7C7F5" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600">Java Full Stack Developer · Founder of FileWalaTool</text>
+  <text x="90" y="242" fill="#AAB7C4" font-family="Arial, Helvetica, sans-serif" font-size="18">Building fast, useful web products with Java, Spring Boot, React, and SQL.</text>
+
+  <g transform="translate(88 278)">
+    <rect x="0" y="0" width="78" height="31" rx="15.5" fill="#172A3F" stroke="#2D4F75"/>
+    <text x="19" y="20" fill="#BFDBFE" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">JAVA</text>
+    <rect x="90" y="0" width="131" height="31" rx="15.5" fill="#142B24" stroke="#285B49"/>
+    <text x="109" y="20" fill="#BBF7D0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">SPRING BOOT</text>
+    <rect x="233" y="0" width="83" height="31" rx="15.5" fill="#222647" stroke="#464D8F"/>
+    <text x="252" y="20" fill="#DDD6FE" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">REACT</text>
+    <rect x="328" y="0" width="69" height="31" rx="15.5" fill="#2E2616" stroke="#6B5522"/>
+    <text x="348" y="20" fill="#FDE68A" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">SQL</text>
+  </g>
+
+  <circle cx="95" cy="345" r="5" fill="#7EE787"/>
+  <text x="111" y="350" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="14">Open to Java and Full Stack opportunities</text>
+
+  <g filter="url(#shadow)">
+    <rect x="745" y="58" width="392" height="298" rx="20" fill="url(#card)" stroke="#334155"/>
+    <rect x="769" y="82" width="344" height="46" rx="12" fill="#0D1117" stroke="#30363D"/>
+    <circle cx="792" cy="105" r="6" fill="#FF5F56"/>
+    <circle cx="812" cy="105" r="6" fill="#FFBD2E"/>
+    <circle cx="832" cy="105" r="6" fill="#27C93F"/>
+    <text x="860" y="110" fill="#8B949E" font-family="monospace" font-size="12">product / filewalatool</text>
+
+    <circle cx="804" cy="178" r="35" fill="#0D1117" stroke="#58A6FF" stroke-width="2"/>
+    <text x="783" y="189" fill="#E6EDF3" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">FW</text>
+    <text x="855" y="170" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">FileWalaTool</text>
+    <text x="855" y="195" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13">PDF · Image · Document utilities</text>
+
+    <rect x="770" y="233" width="106" height="73" rx="12" fill="#0D1117" stroke="#30363D"/>
+    <text x="790" y="258" fill="#7EE787" font-family="monospace" font-size="12">STATUS</text>
+    <text x="790" y="284" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Live</text>
+
+    <rect x="891" y="233" width="106" height="73" rx="12" fill="#0D1117" stroke="#30363D"/>
+    <text x="910" y="258" fill="#58A6FF" font-family="monospace" font-size="12">MODE</text>
+    <text x="910" y="284" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Browser</text>
+
+    <rect x="1012" y="233" width="101" height="73" rx="12" fill="#0D1117" stroke="#30363D"/>
+    <text x="1030" y="258" fill="#C4B5FD" font-family="monospace" font-size="12">FOCUS</text>
+    <text x="1030" y="284" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">UX</text>
+
+    <rect x="770" y="322" width="343" height="16" rx="8" fill="#0D1117"/>
+    <rect x="770" y="322" width="234" height="16" rx="8" fill="url(#accent)"/>
+  </g>
 </svg>
