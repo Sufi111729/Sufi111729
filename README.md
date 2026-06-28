@@ -1,3 +1,5 @@
+![Muhammad Sufiyan — Java Full Stack Developer](./assets/sufiyan-header.svg)
+
 # Muhammad Sufiyan
 
 ## Java Full Stack Developer | Founder of FileWalaTool
@@ -5,6 +7,8 @@
 I am Muhammad Sufiyan, a Java Full Stack Developer from India. I build fast, responsive, user-friendly web applications and browser-based document and image tools with Java, Spring Boot, React, JavaScript, SQL, and modern frontend technologies.
 
 I am also the founder of [FileWalaTool](https://www.filewalatool.com), a browser-based platform for image, PDF, and document tools designed for fast processing, privacy-focused handling, and an easy user experience.
+
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=flat-square&logo=springboot&logoColor=6DB33F) ![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8) ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=white)
 
 ## About Me
 
@@ -48,6 +52,7 @@ Java · Spring Boot · React · JavaScript · Next.js · Node.js · HTML · CSS 
 - Portfolio: [mdsufidev.vercel.app](https://mdsufidev.vercel.app)
 - FileWalaTool: [www.filewalatool.com](https://www.filewalatool.com)
 - GitHub: [github.com/Sufi111729](https://github.com/Sufi111729)
+- LinkedIn: Add your LinkedIn URL here
 
 ---
 
