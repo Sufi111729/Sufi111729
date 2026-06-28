@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Muhammad Sufiyan — Java Full Stack Developer architecture blueprint banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0A1527"/><stop offset="100%" stop-color="#0B111A"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#5DA9FF" stroke-opacity=".10" stroke-width="1"/></pattern>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#58A6FF"/><stop offset="100%" stop-color="#7EE787"/></linearGradient>
+  </defs>
+  <rect width="1200" height="420" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="26" fill="url(#grid)"/>
+  <rect x="58" y="58" width="6" height="300" rx="3" fill="url(#accent)"/>
+  <text x="92" y="93" fill="#93C5FD" font-family="monospace" font-size="15">DEVELOPER BLUEPRINT // 2026</text>
+  <text x="92" y="163" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="53" font-weight="700">Muhammad Sufiyan</text>
+  <text x="94" y="207" fill="#7DD3FC" font-family="monospace" font-size="21">JAVA FULL STACK DEVELOPER</text>
+  <text x="94" y="246" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="18">Designing structured, scalable applications from backend to browser.</text>
+  <g transform="translate(92 282)">
+    <rect width="90" height="30" rx="6" fill="#11233C" stroke="#2E5D8E"/><text x="23" y="20" fill="#BFDBFE" font-family="monospace" font-size="12">JAVA</text>
+    <rect x="102" width="132" height="30" rx="6" fill="#132B23" stroke="#2F6B53"/><text x="122" y="20" fill="#BBF7D0" font-family="monospace" font-size="12">SPRING BOOT</text>
+    <rect x="246" width="88" height="30" rx="6" fill="#28234B" stroke="#514A98"/><text x="267" y="20" fill="#DDD6FE" font-family="monospace" font-size="12">REACT</text>
+    <rect x="346" width="75" height="30" rx="6" fill="#2B2617" stroke="#6B5522"/><text x="367" y="20" fill="#FDE68A" font-family="monospace" font-size="12">SQL</text>
+  </g>
+  <text x="94" y="348" fill="#7EE787" font-family="monospace" font-size="14">FOUNDER OF FILEWALATOOL · BUILDING PRODUCTS FOR REAL USERS</text>
+
+  <g transform="translate(744 50)">
+    <rect width="393" height="316" rx="20" fill="#0C1728" stroke="#31506F"/>
+    <text x="28" y="39" fill="#A7C7F5" font-family="monospace" font-size="13">SYSTEM MAP / FILEWALATOOL</text>
+    <g fill="#0B1523" stroke="#58A6FF" stroke-width="2">
+      <rect x="34" y="104" width="98" height="52" rx="10"/>
+      <rect x="148" y="44" width="98" height="52" rx="10"/>
+      <rect x="148" y="164" width="98" height="52" rx="10"/>
+      <rect x="262" y="104" width="98" height="52" rx="10"/>
+      <circle cx="197" cy="130" r="27" fill="#122136" stroke="#7EE787"/>
+    </g>
+    <g stroke="#58A6FF" stroke-width="2" stroke-opacity=".72">
+      <path d="M132 130H170M197 96V103M197 157V164M224 130H262"/>
+      <path d="M132 130L170 116M132 130L170 145M224 116L262 130M224 145L262 130" stroke-opacity=".42"/>
+    </g>
+    <text x="55" y="135" fill="#C9D1D9" font-family="monospace" font-size="12">API</text>
+    <text x="174" y="76" fill="#C9D1D9" font-family="monospace" font-size="12">DATABASE</text>
+    <text x="178" y="196" fill="#C9D1D9" font-family="monospace" font-size="12">FRONTEND</text>
+    <text x="282" y="135" fill="#C9D1D9" font-family="monospace" font-size="12">USERS</text>
+    <text x="172" y="135" fill="#F0F6FC" font-family="monospace" font-size="11" font-weight="700">BUILD</text>
+    <rect x="33" y="257" width="327" height="28" rx="8" fill="#101D2D" stroke="#27445E"/>
+    <text x="52" y="276" fill="#7EE787" font-family="monospace" font-size="12">JAVA → REST APIs → REACT → PRODUCT UX</text>
+  </g>
+</svg>
